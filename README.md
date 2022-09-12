@@ -11,5 +11,5 @@ Uploader e encoder de vídeos do curso FullCycle 3.0
  - [X] Configurando o banco de dados
  - [X] Configurando entidades
  - [X] Implementando video repository
- - [ ] Testando video repository
- - [ ] Criando e testando jobrepository
+ - [X] Testando video repository
+ - [X] Criando e testando jobrepository
